@@ -1,0 +1,4 @@
+export(HMVD)
+  importFrom("stats", "cor", "dnorm", "glm", "lm", "median", "pchisq",
+             "quasibinomial", "sd", "var")
+import(MASS)
